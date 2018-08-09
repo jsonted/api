@@ -1,0 +1,19 @@
+{
+  "expedientes": [
+    {
+	  "id":1,
+	  "numero_expediente": "E1/2020",
+	  "enviado_por": "mromo@conicyt.cl"
+	},
+	{
+	  "id":2,
+	  "numero_expediente": "E2/2020",
+	  "enviado_por": "jlalana@conicyt.cl"
+	},
+	{
+	  "id":3,
+	  "numero_expediente": "E3/2020",
+	  "enviado_por": "wmunoz@conicyt.cl"
+	}
+  ]
+}
